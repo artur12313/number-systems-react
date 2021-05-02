@@ -1,0 +1,20 @@
+.body{
+  background-color: white;
+}
+.header {
+  background-color: rgb(2, 119, 252);
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
+#icon {
+  height: 300px;
+  width: 300px;
+  position: relative;
+  right: 35%;
+}
+
+.main{
+  background-color: whitesmoke;
+}
